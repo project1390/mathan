@@ -1,8 +1,8 @@
 🧠 Topic: Portfolio Website
 
-        A portfolio website is a personal online platform that showcases an individual’s skills, projects, 
-    experience, and achievements. It serves as a digital résumé and helps others  learn about you and 
-    your work.
+        A portfolio website is a personal online platform that showcases an individual’s skills, 
+    projects, experience, and achievements. It serves as a digital résumé and helps others  
+    learn about you and your work.
 
 🌟 Features
 
